@@ -1,5 +1,14 @@
-## Hi there 👋
+## Intro 👋
+My name is Bailey Wilson and I am currently a Network Support Eningineer at Cisco Meraki. 
 
+## Technical experience 🤓
+-CCNA
+\*\*Work in progress\*\*
+
+## Current pursuits 🤔
+-Currently delving into AWS and cloud networking concepts 
+
+	
 <!--
 **Tarenthis/Tarenthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
